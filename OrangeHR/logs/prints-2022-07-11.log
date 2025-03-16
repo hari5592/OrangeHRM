@@ -1,0 +1,6 @@
+21:13:33.218 [main] INFO  resources.BaseClass - Browser is launched and navigated to the URL
+21:13:38.921 [main] INFO  resources.BaseClass - Browser is launched and navigated to the URL
+21:13:42.234 [main] INFO  resources.BaseClass - Browser is launched and navigated to the URL
+21:13:49.915 [main] INFO  resources.BaseClass - Dashboard option is displayed
+21:13:50.909 [main] INFO  resources.BaseClass - Browser is Closed successfully
+21:13:51.334 [main] INFO  resources.BaseClass - Browser is Closed successfully

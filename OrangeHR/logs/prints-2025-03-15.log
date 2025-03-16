@@ -1,0 +1,6 @@
+14:46:05.521 [TestNG-tests-3] INFO  resources.BaseClass - Browser is launched and navigated to the URL
+14:46:15.756 [TestNG-tests-1] INFO  resources.BaseClass - Browser is Closed successfully
+14:46:17.634 [TestNG-tests-3] INFO  resources.BaseClass - Browser is Closed successfully
+14:53:06.414 [TestNG-tests-3] INFO  resources.BaseClass - Browser is launched and navigated to the URL
+14:53:06.571 [TestNG-tests-1] INFO  resources.BaseClass - Browser is launched and navigated to the URL
+14:53:22.748 [TestNG-tests-1] INFO  resources.BaseClass - Browser is Closed successfully

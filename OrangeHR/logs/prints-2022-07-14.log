@@ -1,0 +1,6 @@
+21:04:23.259 [TestNG-tests-3] INFO  resources.BaseClass - Dashboard option is displayed
+21:04:23.935 [TestNG-tests-1] INFO  resources.BaseClass - Browser is Closed successfully
+21:04:24.091 [TestNG-tests-3] INFO  resources.BaseClass - Browser is Closed successfully
+21:04:56.486 [TestNG-tests-3] INFO  resources.BaseClass - Browser is launched and navigated to the URL
+21:04:57.168 [TestNG-tests-1] INFO  resources.BaseClass - Browser is launched and navigated to the URL
+21:05:00.240 [TestNG-tests-1] INFO  resources.BaseClass - Browser is launched and navigated to the URL
